@@ -32,6 +32,7 @@ h3 {
 }
 
 .filter, .uc, .prof, .dia {
+	box-shadow: 0 0 12px -10px #000;
 	color: #666;
 }
 
