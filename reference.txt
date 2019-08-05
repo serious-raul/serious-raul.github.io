@@ -1,0 +1,135 @@
+﻿
+
+2 NILO/RENATA Fenômenos Mecânicos I
+2 RENÉ/RENATA Funções de Uma Variável II
+3 FABIANE Metodologia Científica e Tecnológica II
+3 PAULA Metodologia Científica e Tecnológica III
+4 COP Introdução à Estatística
+4 DANIELA Funcionamento da Vida II
+5 TATIANA Laboratório de Fenômenos Químicos
+5 SÔNIA Laboratório de Fenômenos Mecânicos
+5 ÉVERSON Fenômenos Químicos II
+6 KITAHARA Biodiversidade Marinha II
+
+2 CAIO Gestão de Negócios Portuários e Marítimos
+2 GUSMÃO Conservação da Vida
+3 MELISSA Gestão Costeira Integrada
+3 WANDREY Oceanografia Física e Química
+4 MITTANI Fenômenos Térmicos
+4 MITTANI Laboratório de Fenômenos Térmicos
+6 CHOUERI Organização da Vida
+
+4 RENÉ PTCC
+Sab BURNO TCC I
+Sab MARTINS TCC II
+
+2
+RODOLFO Interações Homem-Tecnologia-Ambiente
+GILBERTO Geoprocessamento
+KAUZO Planejamento e Gestão Urbana e Ambiental
+GISLENE Ictiologia e Biodiversidade Costeira
+CAIO Logística e Sistemas Inteligentes de Transporte ITS
+MARTINS Energia e Meio Ambiente
+
+3
+SCHVEITZER Cultivo de Organismos Aquáticos
+CAMILO Biomarcadores de Poluição Marinha
+MARCIO Desenho Técnico e Introdução à CAD
+CHRISTOFOLETTI Educação Ambiental
+AUGUSTO Técnicas de Amostragem Subaquática
+VINICIUS Geologia Marinha Costeira
+BRUNO Biologia Pesqueira
+
+4
+ADRIANA Estática dos Sólidos
+EMILIANO Princípios de Geologia Sedimentar
+EMANUAELLE Técnicas de Caracterização de Materiais II
+FLÁVIA Sistemas de Tratamento de Efluentes
+TATIABA Tecnologia Química
+AKIO Eletrotécnica
+CHRISTOFOLETTI Redação Científica
+ALBERTO Planejamento Estratégico
+
+5
+MARCIO Técnicas de Caracterização de Materiais I
+BARBARA Análise de Impacto e Monitoramento Ambiental 
+EMMANUELLE Introdução à Resistência dos Materiais
+ELEN Biotecnologia Marinha
+WILLIAM Modelagem Numérica
+TORRES Biogeoquímica Ambiental
+LEONARDO Funcionamento dos Ecossistemas Marinhos
+ANTHONY Matemática Financeira
+
+6
+WANDREY Introdução à Dinâmica dos Oceanos
+ANDRE Introdução a Banco de Dados
+VINICIUS Geologia do Quaternário
+IGOR Biologia Molecular Básica
+GUSMAO Limnologia
+ANDRE Introdução a Mineração de Dados
+
+DOCENTES
+
+DE OBRIGATÓRIAS
+
+NILO
+RENATA
+RENE
+FABIANE
+PAULA
+COP
+DANIELA
+TATIANA
+SONIA
+EVERSON
+KITAHARA
+CAIO
+GUSMAO
+MELISSA
+WANDREY
+MITTANI
+CHOUERI
+BRUNO
+MARTINS
+
+DE ELEITIVAS
+
+RODOLFO
+GILBERTO
+KAZUO
+GISLENE
+CAIO
+MARTINS
+
+SCHVEITZER
+CAMILO
+MARCIO
+CHRISTOFOLETTI
+AUGUSTO
+VINICIUS
+BRUNO
+
+ADRIANA
+EMILIANO
+EMANUAELLE
+FLÁVIA
+TATIABA 
+AKIO
+CHRISTOFOLETTI
+ALBERTO
+
+MARCIO
+BARBARA 
+EMMANUELLE
+ELEN
+WILLIAM
+TORRES
+LEONARDO
+ANTHONY
+
+WANDREY
+ANDRE
+VINICIUS
+IGOR
+GUSMAO
+ANDRE
