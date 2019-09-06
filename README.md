@@ -6,7 +6,7 @@ Sobre: true
 ---
 ## Detalhes
 
-Este site foi construido no intuido de auxiliar os discentes do curso de Bacharelado Interdisciplinar em Ciências e Tecnologia do Mar (BICT-mar), da Universidade Federal de São Paulo (Unifesp).   
+Este site foi construido no intuito de auxiliar os discentes do curso de Bacharelado Interdisciplinar em Ciências e Tecnologia do Mar (BICT-mar), da Universidade Federal de São Paulo (UNIFESP).   
 
 ## Agradecimentos
   
