@@ -8,12 +8,12 @@
     vertical-align: baseline;
     list-style: none;
     text-align: center;
-	white-space: nowrap;
 	font-family: 'Open Sans', sans-serif;
 	text-align: left;
 }
 	
 div {
+	
 	font-weight: bold;
 	font-size: .85rem;
 }
@@ -53,7 +53,16 @@ a, a:hover, a:active {
 	text-decoration: none;
 }
 
-#nav, #allucs, #docents, #semana {
+.customized-scrollbar::-webkit-scrollbar {
+  height: 4px;
+  background-color: #6f87ff; /* or add it to the track */
+}
+
+.customized-scrollbar::-webkit-scrollbar-thumb {
+    background: #061354; 
+}
+
+.allucs, .docents, .semana {
 	padding-left: 1rem;
 	width: 100%;
 	display: flex;
@@ -64,13 +73,14 @@ a, a:hover, a:active {
 	border: 1px solid #ccc;
 	margin: 1rem 1.5vw;
 	box-shadow: 0 0 9px -7px #000;
+	white-space: nowrap;
 }
 
-.filter, .uc, .prof, .dia {
+.uc, .prof, .dia {
 	color: #666;
 }
 
-.filter:hover, .uc:hover , .prof:hover, .dia:hover {
+.uc:hover , .prof:hover, .dia:hover {
 	cursor: pointer;
 	border-color: #215a36;
 	color: #215a36;
@@ -91,14 +101,6 @@ a, a:hover, a:active {
 #searchbox i {
 	color: #fff;
 	padding: 0 .6rem;
-}
-
-#nav {
-	border-bottom: 1px solid #ccc;
-}
-
-.filter {
-	margin: 1rem 5vw;
 }
 
 .uc {

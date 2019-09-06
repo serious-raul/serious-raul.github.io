@@ -1,0 +1,7 @@
+title: Instituto do Mar
+url: "https://serious-raul.github.io"
+baseurl: '' #'/unifesp' # Se o seu blog é construído em um diretório, adicione o nome do diretório aqui, e adicione 
+            # o `/ public` em todos os links configurados abaixo, ou seja,` / your_baseurl / public`. 
+            # Não tem '/' no final deste item.
+
+permalink: /:categories/:title # Diretório de postagem no blog
