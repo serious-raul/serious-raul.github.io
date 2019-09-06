@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<i id="back" class="fas fa-arrow-left" onclick="window.history.go(-1)" ></i>
+<h5 class="mt-0">{{ page.title }}</h5>
+<div class="media ">
+	<a href="{{ page.url }}" class='prof'>{{ page.abreviacao }}</a>
+	<div class="media-body">
+		<br>
+		Docente(s):  
+		{% if professor.size == 1 %}
+		{{ page.professor }}
+		{% else %}
+		{% for prof in page.professor %}
+		{{ prof }}
+		{% if prof != page.professor.last %}
+		 / 
+		{% endif %}
+		{% endfor %}
+		{% endif %}<br>
+	    Carga horária: {{ page.CH }}
+	</div>
+</div>
+
+<div><i id="icon" class="fas fa-pen"></i> Você pode adicionar conteúdo à esta página! Volte para o Início e clique em "Como Ajudar"</div>
+
+{{ content }}

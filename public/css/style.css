@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+    box-sizing: border-box;
+    vertical-align: baseline;
+    list-style: none;
+    text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+}
+	
+div {
+	
+	font-weight: bold;
+	font-size: .85rem;
+}
+
+#back {
+	margin: 1.5rem;
+}
+
+#icon {
+	margin: 1.2rem 1.5rem;
+}
+
+#back:hover {
+	cursor: pointer;
+	color: #215a36;
+}
+
+h1 {
+	padding: .6rem 2rem;
+}
+
+h3 {
+	margin: 1rem 0 0 2rem;
+}
+
+h3 i {
+	margin: .2rem 1.5rem;
+	float: right;
+}
+
+h4, h5 {
+	padding: .2rem 2rem;
+}
+
+a, a:hover, a:active {
+	color: inherit;
+	text-decoration: none;
+}
+
+.customized-scrollbar::-webkit-scrollbar {
+  height: 4px;
+  background-color: #6f87ff; /* or add it to the track */
+}
+
+.customized-scrollbar::-webkit-scrollbar-thumb {
+    background: #061354; 
+}
+
+.allucs, .docents, .semana {
+	padding-left: 1rem;
+	width: 100%;
+	display: flex;
+	overflow: auto;
+}
+
+.uc, .prof, .dia {
+	border: 1px solid #ccc;
+	margin: 1rem 1.5vw;
+	box-shadow: 0 0 9px -7px #000;
+	white-space: nowrap;
+}
+
+.uc, .prof, .dia {
+	color: #666;
+}
+
+.uc:hover , .prof:hover, .dia:hover {
+	cursor: pointer;
+	border-color: #215a36;
+	color: #215a36;
+}
+
+/* Individuals */
+
+#searchbox {
+	background-image:
+	linear-gradient(to right bottom, #215a36, #196448, #0e6d5a, #01776d, #008080);
+	margin: 1rem 1.3rem 0 1.3rem;
+	border-radius: .4rem;
+	font-size: 1rem;
+	padding: .7rem;
+	color: #fff;
+}
+
+#searchbox i {
+	color: #fff;
+	padding: 0 .6rem;
+}
+
+.uc {
+	padding: 3rem 8rem;
+	border-radius: .4rem;
+}
+
+.prof {
+	padding: 2rem 2rem;
+	border-radius: 1rem;
+}
+
+.dia {
+	padding: 1.5rem 4rem;
+	border-radius: .4rem;
+}

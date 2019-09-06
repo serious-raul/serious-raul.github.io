@@ -1,0 +1,36 @@
+  <nav id=searchbox class="navbar"><i class="fas fa-university"></i>{{ site.title }}</nav>
+    <br>
+    <ul id="nav" class="nav nav-tabs">
+      <li class="nav-item">
+        {% if page.Home %}<a class="nav-link active" href="{{ site.url }}/index">Home</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/index">Home</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.UCs %}<a class="nav-link active" href="{{ site.url }}/uc">UC&#39s</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/uc">UC&#39s</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Termos %}<a class="nav-link active" href="{{ site.url }}/termos">Termos</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/termos">Termos</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Docentes %}<a class="nav-link active" href="{{ site.url }}/docentes">Docentes</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/docentes">Docentes</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Dias-da-semana %}<a class="nav-link active" href="{{ site.url }}/dia-da-semana">Dias da semana</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/dia-da-semana">Dias da semana</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Categorias %}<a class="nav-link active" href="{{ site.url }}/categorias">Categorias</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/categorias">Categorias</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Apoio %}<a class="nav-link active" href="{{ site.url }}/apoio">Como ajudar</a>
+        {% else %}<a class="nav-link" href="{{ site.url }}/apoio">Como ajudar</a>{% endif %}
+      </li>
+      <li class="nav-item">
+        {% if page.Sobre %}<a class="nav-link active" href="{{site.url}}/sobre">Sobre</a>
+        {% else %}<a class="nav-link" href="{{site.url}}/sobre">Sobre</a>{% endif %}
+      </li>
+    </ul>
