@@ -1,7 +1,7 @@
 ---
 layout: uc
 title: Gestão Costeira Integrada
-abreviacao: CdV
+abreviacao: GCI
 tag: [uc, Obrigatórias]
 professor: [Melissa]
 CH: 40h
